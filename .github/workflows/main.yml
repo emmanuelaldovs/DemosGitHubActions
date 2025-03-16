@@ -4,7 +4,7 @@ on:
   push:
     branches: [ main ]
 
-  jobs: 
+jobs: 
     build:
       runs-on: ubuntu-lastest
       
@@ -12,7 +12,7 @@ on:
         contents: write
       
       steps:
-        - nmae: checkout repo
+        - name: checkout repo
           uses: actions/checkout@v4
 
         - name: Setup Python
