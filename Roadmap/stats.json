@@ -1,0 +1,23 @@
+{
+    "challenges_total": 0,
+    "languages_total": 1,
+    "files_total": 1,
+    "users_total": 1,
+    "challenges_ranking": [],
+    "languages_ranking": [
+        {
+            "order": 1,
+            "name": "roadmap",
+            "count": 1,
+            "percentage": 100.0
+        }
+    ],
+    "users_ranking": [
+        {
+            "order": 1,
+            "name": "test2",
+            "count": 1,
+            "languages": 1
+        }
+    ]
+}
